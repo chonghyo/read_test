@@ -3,13 +3,27 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to read_test's documentation!
-=====================================
+PSID_tutorial
+====================================
+
+
+YESSSSSSSSSSSSSSSSSSSSSSSSSS
+============================
+
+It is an honor 
+
+    print 'heee'
+    >> heee
+
+
+Guide
+^^^^^
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   
+   license
+   help
 
 
 Indices and tables

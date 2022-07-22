@@ -1,0 +1,21 @@
+A package
+=========
+
+Submodules
+----------
+
+A.a module
+----------
+
+.. automodule:: A.a
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: A
+   :members:
+   :undoc-members:
+   :show-inheritance:

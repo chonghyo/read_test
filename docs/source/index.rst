@@ -10,7 +10,7 @@ PSID_PSID_
 YESSSSSSSSSSSSSSSSSS
 ============================
 
-It is an hornor
+It is an hornor.::
 
     print 'yesssss'
     >> hahahaha

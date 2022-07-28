@@ -16,6 +16,11 @@ It is an honor.::
     >> hahahaha
 
 
+Installation
+.. code-block:: bash
+   
+   import numpy as np
+
 Guide
 ^^^^^
 

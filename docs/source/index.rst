@@ -16,7 +16,7 @@ It is an honor.::
     >> hahahaha
 
 
-Installation
+Installation:
 .. code-block:: bash
    
    import numpy as np

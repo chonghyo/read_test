@@ -15,6 +15,9 @@ Revision History
 
  * [2022/07/22] - module cccc
 """
+from __future__ import absolute_import
+from __future__ import print_function
+
 import numpy as np
 
 

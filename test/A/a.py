@@ -15,6 +15,8 @@ Revision History
 
  * [2022/07/22] - module cccc
 """
+import numpy as np
+
 
 class A:
     """testest

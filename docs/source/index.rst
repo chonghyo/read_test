@@ -10,7 +10,7 @@ PSID_PSID_
 YESSSSSSSSSSSSSSSSSS
 ============================
 
-It is an honor.::
+It is an honor.:
 
     print 'yesssss'
     >> hahahaha

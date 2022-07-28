@@ -17,7 +17,8 @@ It is an honor.:
 
 
 Installation:
-.. code-block:: bash
+
+.. code-block:: python
    
    import numpy as np
 

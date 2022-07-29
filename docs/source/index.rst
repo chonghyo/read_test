@@ -17,12 +17,14 @@ It is an honor.::
 
 
 code-block python 
+
 .. code-block:: python
    
    import numpy as np
    
 
 code-block bash
+
 .. code-block:: bash
 
    pip install pandas

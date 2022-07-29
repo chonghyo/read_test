@@ -16,11 +16,17 @@ It is an honor.::
     >> hahahaha
 
 
-python code
-
+code-block python 
 .. code-block:: python
    
    import numpy as np
+   
+
+code-block bash
+.. code-block:: bash
+
+   pip install pandas
+
 
 Guide
 ^^^^^
